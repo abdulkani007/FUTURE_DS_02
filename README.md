@@ -1,4 +1,6 @@
 📊 Project Overview
+
+
 The Task 2 Power BI report showcases interactive visualizations and dashboards that help users explore and interpret the underlying data efficiently. This project demonstrates skills in:
 
 Data transformation and modeling
